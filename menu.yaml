@@ -1,7 +1,80 @@
-*caret-right introduction:
-  - app
-  - overview
+*house Introduction:
+  - Overview
+  - Benefits
+  - How It Works
 
-*caret-right system:
-  - modules
-  - renders
+*play Getting Started:
+  - Requirements
+  - Installation
+  - First Project
+
+*diagram-3 Architecture:
+  - Framework Structure
+  - PHP Layer
+  - AI Engine
+  - Database Layer
+
+*folder2 Project Management:
+  - Pages:
+    - Overview
+    - Page Structure
+    - Access Groups
+  - APIs:
+    - Overview
+    - API Structure
+  - Cron Jobs:
+    - Overview
+    - Cron Structure
+
+*cpu AI Skills:
+  - Create:
+    - Project
+    - Page
+    - API
+    - Cron Job
+    - Translation
+    - SEO
+    - README
+    - LICENSE
+  - Edit:
+    - Project
+    - Page
+    - API
+    - Cron Job
+    - Translation
+    - SEO
+    - README
+    - Access
+  - Delete:
+    - Page
+    - API
+    - Cron Job
+    - Translation
+    - Log
+    - README
+    - LICENSE
+  - Read:
+    - Database
+    - Git
+    - Log
+  - Render:
+    - Page
+    - Group
+
+*gear Configuration:
+  - Environment Variables
+  - AI Models
+  - Localhost Setup
+  - Database Config
+
+*shield-lock Security:
+  - Overview
+  - htaccess Rules
+  - Rate Limiting
+
+*arrow-repeat Workflow:
+  - Development Loop
+  - Patch System
+  - Git Integration
+  - Translations
+  - Cron Management

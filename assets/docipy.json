@@ -1,1 +1,26 @@
-{"date": "2025-05-04", "docipy-hint": "Build Docs With DociPy", "docipy-page": "https://github.com/IG-onGit/DociPy", "project": "Test Project", "version": "1.0.2", "slogan": "Testing Docs Page", "description": "sadb asjdb asjd ajsd jads asd", "keywords": "asnd nbasd nbas dnba sdnba sdnbasd", "doc-url": "https://docs.phpshift.com", "author": "Irakli Gzirishvili", "position": "...", "email": "gziraklirex@gmail.com", "linkedin": "#", "x": "https://x.com/IG_onX", "button1-name": "Explore", "button1-link": "#docipy", "button2-name": "Download", "button2-link": "#", "background-image": "", "main-color": "#604384", "main-dark": "#222222", "googletag-script": "", "copyrighted-meta": "", "copyrighted-badge": ""}
+{
+  "date": "2025-05-03",
+  "docipy-hint": "Build Docs With DociPy",
+  "docipy-page": "https://github.com/IG-onGit/DociPy",
+  "project": "PHPShift",
+  "version": "1.0.0",
+  "slogan": "World's First AI-Powered Full-Stack Framework",
+  "description": "PHPShift is the World's First AI-Powered Full Stack Framework created by Irakli Gzirishvili. It comes with a simple syntax and is easy to use for a variety of projects. Its development process is innovative due to certain simplified concepts that work with the MVC design pattern. PHPShift offers different AI skills, from which appropriate skills are selected, planned and executed depending on the user's needs to produce the requested results",
+  "keywords": "PHPShift, PHP framework, AI framework, MVC framework, web development, full stack development, AI generation, AI coding, AI project, AI news, full stack programming, PHP programming, web programming",
+  "doc-url": ".",
+  "author": "Irakli Gzirishvili",
+  "position": "Creator of PHPShift",
+  "email": "irakli@phpshift.com",
+  "linkedin": "https://www.linkedin.com/in/ig-link",
+  "x": "https://x.com/IG_onX",
+  "button1-name": "Explore",
+  "button1-link": "#introduction-overview",
+  "button2-name": "Go To Website",
+  "button2-link": "https://phpshift.com\\\" target=\\\"_blank",
+  "background-image": "./assets/background.png",
+  "main-color": "#8e13ac",
+  "main-dark": "#390b44",
+  "googletag-script": "",
+  "copyrighted-meta": "",
+  "copyrighted-badge": ""
+}

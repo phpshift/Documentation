@@ -1,3 +1,0 @@
-# Test file 3
-
-Test file 3 ...

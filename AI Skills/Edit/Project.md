@@ -17,7 +17,7 @@ The `Edit > Project` skill updates an existing project plan when you need to add
 
 ```
 Add a social features layer: users should be able to follow each other, 
-like recipes, and see a social feed of activity from people they follow
+like recipes and see a social feed of activity from people they follow
 ```
 
 The AI analyzes your existing pages and generates targeted update descriptions only for pages that need to change, plus the new pages/APIs required.

@@ -1,6 +1,6 @@
 # PHP Layer
 
-The PHP layer is the server-side runtime for every PHPShift project. It is driven by a framework engine inside `.system/` that handles routing, access control, database ORM, API dispatch, and cron execution. Generated code lives on top of this engine.
+The PHP layer is the server-side runtime for every PHPShift project. It is driven by a framework engine inside `.system/` that handles routing, access control, database ORM, API dispatch and cron execution. Generated code lives on top of this engine.
 
 ## Page Classes
 

@@ -1,6 +1,6 @@
 # Database Layer
 
-PHPShift manages MySQL databases through two layers: a Python-side `DB` module for CLI operations (schema inspection, patch rollback, session management), and a PHP-side ORM provided by the `.system/` framework engine for runtime query execution.
+PHPShift manages MySQL databases through two layers: a Python-side `DB` module for CLI operations (schema inspection, patch rollback, session management) and a PHP-side ORM provided by the `.system/` framework engine for runtime query execution.
 
 ## Python DB Module
 
@@ -61,4 +61,4 @@ When PHPShift's AI generates SQL, it follows strict rules enforced in every prom
 
 ## Read Skills for Database
 
-The `Read > Database` skill lets you query your database using natural language during a development session. You describe what data you want, and the AI generates a `statement.sql` and `params.json` which PHPShift then executes and displays inline. This is useful for debugging, inspecting data, or verifying that generated inserts worked correctly.
+The `Read > Database` skill lets you query your database using natural language during a development session. You describe what data you want and the AI generates a `statement.sql` and `params.json` which PHPShift then executes and displays inline. This is useful for debugging, inspecting data, or verifying that generated inserts worked correctly.

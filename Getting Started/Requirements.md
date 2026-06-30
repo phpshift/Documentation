@@ -42,7 +42,7 @@ You need one of the following:
 - **API-key-based model** - Any model supported by the `aisi` module (e.g., Claude, OpenAI-compatible endpoints). You supply the model identifier string and API key.
 - **Google Vertex AI** - Requires a service account JSON key file placed in your project directory. The `.env` value `PHPSHIFT_AIKEY` must be the relative path to this file.
 
-You select and configure your AI model during `phpshift new` project setup, and can change it later with `More > ChangeAIModel`.
+You select and configure your AI model during `phpshift new` project setup and can change it later with `More > ChangeAIModel`.
 
 ## Database
 

@@ -1,6 +1,6 @@
 # Read > Log
 
-The `Read > Log` skill performs AI-powered analysis of your application's log files. It reads the log content and your description of what you're looking for, then produces a structured `summary.md` highlighting key issues, errors, and anomalies.
+The `Read > Log` skill performs AI-powered analysis of your application's log files. It reads the log content and your description of what you're looking for, then produces a structured `summary.md` highlighting key issues, errors and anomalies.
 
 ## How It Works
 
@@ -31,7 +31,7 @@ Give me a general health summary of this log file
 
 A `summary.md` report with:
 
-- **Key events** - Critical errors, warnings, and important operations
+- **Key events** - Critical errors, warnings and important operations
 - **Error patterns** - Repeated issues grouped by type
 - **Potential causes** - AI interpretation of what went wrong
 - **Actionable insights** - Specific suggestions for investigation or fixes

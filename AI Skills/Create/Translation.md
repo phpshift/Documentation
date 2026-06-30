@@ -1,6 +1,6 @@
 # Create > Translation
 
-The `Create > Translation` skill adds full multi-language support to an existing page in one operation. It modifies HTML, CSS, JavaScript, and PHP files to integrate translation tags, then generates the translation JSON file for the requested language.
+The `Create > Translation` skill adds full multi-language support to an existing page in one operation. It modifies HTML, CSS, JavaScript and PHP files to integrate translation tags, then generates the translation JSON file for the requested language.
 
 ## What It Does
 
@@ -24,7 +24,7 @@ Add Georgian (ka) translation to the dashboard page
 
 ## Translation Key Format
 
-Keys are unique, descriptive, and lowercase with underscores:
+Keys are unique, descriptive and lowercase with underscores:
 
 ```html
 <h1 translate="dashboard_title">My Dashboard</h1>

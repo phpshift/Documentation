@@ -1,6 +1,6 @@
 # Installation
 
-PHPShift is distributed as a Python package via the `clight` ecosystem. The installation process sets up the PHPShift CLI command, its internal `.system` frame, and all required Python dependencies.
+PHPShift is distributed as a Python package via the `clight` ecosystem. The installation process sets up the PHPShift CLI command, its internal `.system` frame and all required Python dependencies.
 
 ## Install PHPShift
 
@@ -41,7 +41,7 @@ PHPShift automatically opens files in VS Code using the `code` command. Make sur
 2. Press `Ctrl+Shift+P` → type `Shell Command: Install 'code' command in PATH`
 3. Confirm installation
 
-PHPShift will open your `.md` briefing file, `.env` config, and SQL migration files in VS Code automatically during the workflow.
+PHPShift will open your `.md` briefing file, `.env` config and SQL migration files in VS Code automatically during the workflow.
 
 ## First Run Check
 

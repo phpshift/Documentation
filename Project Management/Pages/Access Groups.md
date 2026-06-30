@@ -1,6 +1,6 @@
 # Access Groups
 
-Access groups are PHPShift's authorization system for pages. Every page belongs to a group, and the group determines which users can access it.
+Access groups are PHPShift's authorization system for pages. Every page belongs to a group and the group determines which users can access it.
 
 ## How Groups Work
 

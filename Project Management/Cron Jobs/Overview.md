@@ -31,7 +31,7 @@ During a development session (`phpshift start`), if cron files exist, PHPShift a
 php cron -auto
 ```
 
-once every minute. The `cron` entry point file (at project root) reads all files in `Crons/`, determines which ones should run based on their internal time checks, and executes them.
+once every minute. The `cron` entry point file (at project root) reads all files in `Crons/`, determines which ones should run based on their internal time checks and executes them.
 
 You can manually control cron execution from the skill menu:
 

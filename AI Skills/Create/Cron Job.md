@@ -20,7 +20,7 @@ A single PHP file in `Crons/` named in camelCase (e.g., `cleanExpiredSessions.ph
 
 ```
 Every day at 3 AM, delete sessions from the sessions table that expired 
-more than 7 days ago, and log the count of deleted records
+more than 7 days ago and log the count of deleted records
 ```
 
 Output: `Crons/cleanExpiredSessions.php`

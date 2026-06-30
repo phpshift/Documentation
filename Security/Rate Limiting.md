@@ -32,7 +32,7 @@ Tracks requests per session identifier. If a single user session makes more than
 
 **Default:** max 10 requests per 10 seconds per session. Locks for 30 seconds on violation.
 
-Use case: protects against AJAX-heavy pages accidentally hammering the server, and catches scripted abuse using a stolen session.
+Use case: protects against AJAX-heavy pages accidentally hammering the server and catches scripted abuse using a stolen session.
 
 ### IP Rate (IP-Level)
 
@@ -40,7 +40,7 @@ Tracks requests per client IP address. If a single IP makes more than `IPR_AMOUN
 
 **Default:** max 200 requests per 60 seconds per IP.
 
-Use case: protects against scraping, brute force login attempts, and DDoS from a single source.
+Use case: protects against scraping, brute force login attempts and DDoS from a single source.
 
 ## Tuning for Your Application
 

@@ -7,7 +7,7 @@ PHPShift's translation system makes internationalizing a PHP project a one-step 
 ```
 1. Build your page in your primary language (usually English)
 2. Run Create > Translation, specify the target language
-3. AI updates HTML, CSS, JS, and PHP to support the new language
+3. AI updates HTML, CSS, JS and PHP to support the new language
 4. AI generates the Space/lng.{lang}.json file
 5. Repeat for additional languages as needed
 ```

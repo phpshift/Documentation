@@ -18,7 +18,7 @@ Use **Edit > Page** for incremental improvements. Use **Render > Page** when a p
 1. You select the page to re-render from the list
 2. PHPShift loads the page's `readme.md` as the base description
 3. You can provide additional instructions to adjust the render
-4. The AI regenerates all page files fresh, using current DB schema, PHP methods, and a styling reference
+4. The AI regenerates all page files fresh, using current DB schema, PHP methods and a styling reference
 
 ## Example Task
 

@@ -4,7 +4,7 @@ The `Create > README` skill generates a professional `README.md` at the project 
 
 ## What It Generates
 
-- Project title, description, and tagline
+- Project title, description and tagline
 - Feature highlights
 - Technology stack overview (PHP, MySQL, jQuery, jQook)
 - Local setup instructions

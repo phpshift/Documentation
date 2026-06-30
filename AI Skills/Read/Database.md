@@ -1,6 +1,6 @@
 # Read > Database
 
-The `Read > Database` skill lets you query your project's MySQL database using plain English. The AI translates your request into a SQL statement and parameters, executes them, and displays the results - no SQL knowledge required.
+The `Read > Database` skill lets you query your project's MySQL database using plain English. The AI translates your request into a SQL statement and parameters, executes them and displays the results - no SQL knowledge required.
 
 ## How It Works
 

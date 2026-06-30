@@ -74,7 +74,7 @@ class PageRegister {
 ```
 ````
 
-`aisi` parses these blocks, extracts each filename and content pair, and writes them to disk. Binary or special files are handled accordingly.
+`aisi` parses these blocks, extracts each filename and content pair and writes them to disk. Binary or special files are handled accordingly.
 
 ## Model Selection
 
@@ -114,4 +114,4 @@ PHPShift shows result, prompts for confirmation
 
 ## Skill Discovery
 
-The main CLI menu is built dynamically by scanning the `Create/`, `Edit/`, `Delete/`, `Read/`, `Render/`, `More/`, and `PHPShift/` directories for `skill.py` files. The menu structure mirrors the directory tree, and options are filtered based on project state (e.g., "Edit API" is hidden if no APIs exist yet).
+The main CLI menu is built dynamically by scanning the `Create/`, `Edit/`, `Delete/`, `Read/`, `Render/`, `More/` and `PHPShift/` directories for `skill.py` files. The menu structure mirrors the directory tree and options are filtered based on project state (e.g., "Edit API" is hidden if no APIs exist yet).

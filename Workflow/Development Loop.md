@@ -18,7 +18,7 @@ PHPShift's core workflow is a tight feedback loop: describe what you want, revie
 
 ### Yes - Keep Changes
 
-The files remain on disk, database changes are committed (`DB.clear()`), and you're offered a Git commit prompt. This finalizes the skill run.
+The files remain on disk, database changes are committed (`DB.clear()`) and you're offered a Git commit prompt. This finalizes the skill run.
 
 ### Redo - Adjust and Retry
 
@@ -32,7 +32,7 @@ You can add clarifying detail, correct a misunderstanding, or specify what was w
 
 ### No - Discard Entirely
 
-All changes roll back completely, and you return to the main skill menu. No trace of the attempt remains.
+All changes roll back completely and you return to the main skill menu. No trace of the attempt remains.
 
 ## Writing Effective Task Descriptions
 
@@ -52,7 +52,7 @@ Add a login page
 ### Strong Example
 ```
 Create a public login page with email and password fields, client-side 
-validation for email format, a "remember me" checkbox, and a link to 
+validation for email format, a "remember me" checkbox and a link to 
 a password reset flow. On successful login, redirect to /dashboard. 
 On failure, show an inline error message without page reload. 
 Match the styling of the existing welcome page.

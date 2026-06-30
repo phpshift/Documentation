@@ -1,6 +1,6 @@
 # Pages Overview
 
-Pages are the primary building block of a PHPShift project. Each page is a self-contained, full-stack unit: a folder containing HTML structure, CSS styles, JavaScript interactions, PHP business logic, and a documentation file.
+Pages are the primary building block of a PHPShift project. Each page is a self-contained, full-stack unit: a folder containing HTML structure, CSS styles, JavaScript interactions, PHP business logic and a documentation file.
 
 ## What a Page Is
 

@@ -65,7 +65,7 @@ PHPShift will:
 In the skill menu, select **Create → Page**, then describe your page:
 
 ```
-A public landing page with a hero section, feature highlights, and a call-to-action button that links to registration
+A public landing page with a hero section, feature highlights and a call-to-action button that links to registration
 ```
 
 PHPShift collects project context (schema, PHP methods, JS methods) and sends it to the AI. In a few seconds, it writes:
@@ -98,4 +98,4 @@ When done for the day:
 phpshift stop
 ```
 
-Or select the exit option in the skill menu. PHPShift removes the virtual host, updates the hosts file, and stops XAMPP (if no other projects are running).
+Or select the exit option in the skill menu. PHPShift removes the virtual host, updates the hosts file and stops XAMPP (if no other projects are running).

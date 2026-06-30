@@ -50,7 +50,7 @@ my-project/
 
 ## The `.system/` Directory
 
-This is the internal PHP framework engine. It is not editable by AI generation - it is the stable base that powers routing, authentication, database ORM, API dispatch, cron execution, and the `App` helper class.
+This is the internal PHP framework engine. It is not editable by AI generation - it is the stable base that powers routing, authentication, database ORM, API dispatch, cron execution and the `App` helper class.
 
 Key PHP method families available to generated code:
 

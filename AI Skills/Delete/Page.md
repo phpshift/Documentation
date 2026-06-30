@@ -4,7 +4,7 @@ Removes a page and all its associated files from the project.
 
 ## What Gets Removed
 
-The entire `Pages/{group}.{name}/` folder including `page.html`, `style.css`, `script.js`, `code.php`, and `readme.md`.
+The entire `Pages/{group}.{name}/` folder including `page.html`, `style.css`, `script.js`, `code.php` and `readme.md`.
 
 ## Process
 

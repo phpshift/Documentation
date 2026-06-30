@@ -77,7 +77,7 @@ RewriteRule .* - [L]
 RewriteRule ^(.*)$ .system/app.php [L,QSA]
 ```
 
-All non-static requests are routed through `.system/app.php`, giving the framework complete control over routing, access checking, and response handling.
+All non-static requests are routed through `.system/app.php`, giving the framework complete control over routing, access checking and response handling.
 
 ## Request Size Limit
 

@@ -1,6 +1,6 @@
 # Security Overview
 
-PHPShift bakes security into the generated framework from day one. The `.htaccess` file, PHP framework engine, and environment variable system all enforce protections that would take significant effort to implement manually in a typical PHP project.
+PHPShift bakes security into the generated framework from day one. The `.htaccess` file, PHP framework engine and environment variable system all enforce protections that would take significant effort to implement manually in a typical PHP project.
 
 ## Security Layers
 

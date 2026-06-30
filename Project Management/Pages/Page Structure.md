@@ -1,6 +1,6 @@
 # Page Structure
 
-Understanding the internal structure of a PHPShift page helps you navigate generated code, make manual adjustments, and know how the PHP and JavaScript layers communicate.
+Understanding the internal structure of a PHPShift page helps you navigate generated code, make manual adjustments and know how the PHP and JavaScript layers communicate.
 
 ## HTML (`page.html`)
 

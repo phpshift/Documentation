@@ -1,6 +1,6 @@
 # APIs Overview
 
-PHPShift supports standalone REST API files for endpoints that operate independently of pages - webhooks, mobile app backends, external integrations, and internal system services.
+PHPShift supports standalone REST API files for endpoints that operate independently of pages - webhooks, mobile app backends, external integrations and internal system services.
 
 ## When to Use APIs vs Page Methods
 

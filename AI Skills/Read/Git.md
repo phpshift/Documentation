@@ -40,6 +40,6 @@ git log --oneline --format="%h %ad %s" --date=short -10
 
 ## Note
 
-PHPShift's main workflow already handles `git add`, `git commit`, and `git push` natively after every skill confirmation. Use `Read > Git` for everything else - branching, diffing, inspecting history, resetting, configuring remotes, etc.
+PHPShift's main workflow already handles `git add`, `git commit` and `git push` natively after every skill confirmation. Use `Read > Git` for everything else - branching, diffing, inspecting history, resetting, configuring remotes, etc.
 
 The generated command runs in your project root (`Help.cwd`). Commands requiring credentials (push, pull, clone with auth) assume your Git config or SSH keys are already set up.

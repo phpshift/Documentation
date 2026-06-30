@@ -1,6 +1,6 @@
 # Cron Management
 
-PHPShift manages cron job execution during local development through a Python background thread, and provides the scaffolding needed for production cron setup. This page covers the operational side of working with crons day to day.
+PHPShift manages cron job execution during local development through a Python background thread and provides the scaffolding needed for production cron setup. This page covers the operational side of working with crons day to day.
 
 ## Starting and Stopping Crons in Development
 
